@@ -215,7 +215,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`ajinla3bo bot`,"http://twitch.tv/Light")
+client.user.setGame(`-help |By Ajinla3bo`,"http://twitch.tv/Light")
 client.user.setStatus("dnd")
 });
 
